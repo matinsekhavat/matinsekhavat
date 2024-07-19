@@ -27,6 +27,7 @@ const res = {
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="50px"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="50"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px"/>  
 </p>
 
