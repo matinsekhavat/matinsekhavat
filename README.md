@@ -38,7 +38,7 @@ You can contact me by following the links below
 <a href="https://www.instagram.com/matinsekhavat?igsh=c3JuZnAzNnBnZWY0" target="_blank"><img class="icon"  alt="instagram matin sekhavat"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="http://T.me/MatinSekhavat" target="_blank"><img class="icon"  alt="telegram matin sekhavat" width="" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/matin-sekhavat-bb78a7301/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matin sekhavat" /></a>
-<a href="http://portfolio-matin-sekhavat.vercel.app">
+<a href="http://portfolio-matin-sekhavat.vercel.app" target="_blank">
   <img  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="matin sekhavat" />
 </a>
   
