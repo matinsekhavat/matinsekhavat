@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d14431f3-3ba9-4e69-8065-bbf5cc68e999)- # Matin Sekhavat 
+ # Matin Sekhavat 
   - **Junior** Front-End Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=3D85C6&center=true&vCenter=true&random=false&width=1000&height=30&lines=Matin+Sekhavat;Front-End+Developer" alt="Typing SVG" />
 
