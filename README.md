@@ -1,4 +1,4 @@
-- # Matin Sekhavat 
+![image](https://github.com/user-attachments/assets/d14431f3-3ba9-4e69-8065-bbf5cc68e999)- # Matin Sekhavat 
   - **Junior** Front-End Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=3D85C6&center=true&vCenter=true&random=false&width=1000&height=30&lines=Matin+Sekhavat;Front-End+Developer" alt="Typing SVG" />
 
@@ -28,6 +28,8 @@ const res = {
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="50"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="50px" />
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px"/>  
 </p>
 
