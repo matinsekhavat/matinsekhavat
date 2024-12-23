@@ -4,14 +4,14 @@
 
 ```javascript
 const res = {
-  "status": 200,
-  "bio": {
-    "name": "Matin Sekhavat",
-    "city": ["Tehran", "Karaj"],
-    "birth": 2004,
-    "skills": ["React.js", "Next.js" , "TypeScript"],
-    "university": "KIAU",
-    "field": "Software Engineer"
+  status: 200,
+  bio: {
+    name: "Matin Sekhavat",
+    city: ["Tehran", "Karaj"],
+    birth: 2004,
+    skills: ["React.js", "Next.js" , "TypeScript"],
+    university: "KIAU",
+    field: "Software Engineer"
   }
 }
 ```
