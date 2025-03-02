@@ -42,7 +42,10 @@ You can contact me by following the links below
 <a href="http://portfolio-matin-sekhavat.vercel.app" target="_blank">
   <img  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="matin sekhavat" />
 </a>
-  
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=matinsekhavat&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinsekhavat&layout=compact&theme=buefy&hide_border=true" alt="" />
+  | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 </p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=matinsekhavat&theme=react-dark" alt="GitHub Stats" />
 
