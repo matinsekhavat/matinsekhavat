@@ -31,6 +31,11 @@ const res = {
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px"/>  
 </p>
+<p>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="50px"/>
+</p>
 
 ## Social Medias
 You can contact me by following the links below
