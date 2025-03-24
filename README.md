@@ -35,6 +35,9 @@ const res = {
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="50px"/>
+
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px"/>
+ 
 </p>
 
 ## Social Medias
