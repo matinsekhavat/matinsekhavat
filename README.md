@@ -28,6 +28,7 @@ const res = {
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="50px"/>
  <img src="https://skills-icons.vercel.app/api/icons?i=socketio" width="50px"/>
+ 
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="50"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="50px" />
@@ -38,6 +39,7 @@ const res = {
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="50px"/>
+ <img src="https://skills.syvixor.com/api/icons?i=betterauth" width="50px"/>
 
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px"/>
  
