@@ -22,6 +22,7 @@ const res = {
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="50px"/>
+<img src="https://skills.syvixor.com/api/icons?i=shadcnui" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50px"/>
