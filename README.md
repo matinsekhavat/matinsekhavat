@@ -38,6 +38,8 @@ const res = {
 <p>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50px"/>
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50px"/>
+ <img src="https://skills.syvixor.com/api/icons?i=drizzle" width="50px"/>
+
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="50px"/>
  <img src="https://skills.syvixor.com/api/icons?i=betterauth" width="50px"/>
 
