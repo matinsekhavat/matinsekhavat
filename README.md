@@ -47,6 +47,13 @@ const res = {
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="50px"/>
  
 </p>
+<p>Eager to Learn</p>
+<p>
+ 
+<img src="https://skills.syvixor.com/api/icons?i=python" width="50px"/>
+<img src="https://skills.syvixor.com/api/icons?i=fastapi" width="50px"/>
+</p>
+
 
 ## Social Medias
 You can contact me by following the links below
