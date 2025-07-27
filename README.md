@@ -1,5 +1,6 @@
  # Matin Sekhavat 
   - **Junior** Front-End Developer
+  - **Python** and **fastapi** Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=3D85C6&center=true&vCenter=true&random=false&width=1000&height=30&lines=Matin+Sekhavat;Front-End+Developer" alt="Typing SVG" />
 
 ```javascript
