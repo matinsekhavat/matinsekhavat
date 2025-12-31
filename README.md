@@ -52,6 +52,7 @@ const res = {
  
 <img src="https://skills.syvixor.com/api/icons?i=python" width="50px"/>
 <img src="https://skills.syvixor.com/api/icons?i=fastapi" width="50px"/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=golang" width="50px"/>
 </p>
 
 
